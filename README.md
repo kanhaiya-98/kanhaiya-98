@@ -1,104 +1,123 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=11&duration=0&pause=0&color=C8A84B&center=true&vCenter=true&repeat=false&width=500&lines=MUMBAI+%C2%B7+INDIA+%E2%80%B7+AI+%2F+ML+ENGINEER+%E2%80%B7+OPEN+TO+OPPORTUNITIES"/>
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=11&duration=0&pause=0&color=888888&center=true&vCenter=true&repeat=false&width=500&lines=MUMBAI+%C2%B7+INDIA+%E2%80%B7+AI+%2F+ML+ENGINEER+%E2%80%B7+OPEN+TO+OPPORTUNITIES" />
-</picture>
+<br/>
 
-# KANHAYYA GUPTA
+```
+ ██╗  ██╗ █████╗ ███╗   ██╗██╗  ██╗ █████╗ ██╗   ██╗██╗   ██╗ █████╗
+ ██║ ██╔╝██╔══██╗████╗  ██║██║  ██║██╔══██╗╚██╗ ██╔╝╚██╗ ██╔╝██╔══██╗
+ █████╔╝ ███████║██╔██╗ ██║███████║███████║ ╚████╔╝  ╚████╔╝ ███████║
+ ██╔═██╗ ██╔══██║██║╚██╗██║██╔══██║██╔══██║  ╚██╔╝    ╚██╔╝  ██╔══██║
+ ██║  ██╗██║  ██║██║ ╚████║██║  ██║██║  ██║   ██║      ██║   ██║  ██║
+ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝      ╚═╝   ╚═╝  ╚═╝
+```
 
-### GenAI & Agentic AI Engineer — *Building systems that think, reason & act*
+### `GenAI & Agentic AI Engineer` · `Mumbai, India` · `2nd Year B.Tech IoT`
+### *Building systems that think, reason & act — not just predict*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-3K_Followers-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kanhayya-gupta/)
-[![Email](https://img.shields.io/badge/Email-kanhacet%40gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:kanhacet@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-kanhaiya--98-181717?style=flat-square&logo=github)](https://github.com/kanhaiya-98)
-[![Location](https://img.shields.io/badge/Mumbai-India-FF6B35?style=flat-square)](https://maps.google.com/?q=Mumbai,India)
+<br/>
 
-&nbsp;
+[![LinkedIn](https://img.shields.io/badge/─────────────────────────────────────────────────────-0a0a0a?style=for-the-badge)](.)
 
-| 4× | 19× | ₹1.2L | 3× |
-|:---:|:---:|:---:|:---:|
-| Hackathons Won | National Finalist | Seed Funded | Hackathon Mentor |
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-3K%20Followers-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanhayya-gupta/)&nbsp;
+[![Email](https://img.shields.io/badge/Gmail-kanhacet%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kanhacet@gmail.com)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-kanhaiya--98-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kanhaiya-98)
+
+<br/>
+
+| &nbsp;&nbsp;&nbsp;&nbsp;**4×**&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;**19×**&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;**₹1.2L**&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;**3×**&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;**3K**&nbsp;&nbsp;&nbsp;&nbsp; |
+|:---:|:---:|:---:|:---:|:---:|
+| Hackathons Won | National Finalist | Seed Funded | Hackathon Mentor | LinkedIn |
+
+<br/>
 
 </div>
 
 ---
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║  role          →  AI Engineer @ Pixels Creative Technologies    ║
-║  education     →  B.Tech IoT · Thakur COE Mumbai · 2nd Year     ║
-║  specialization→  Agentic AI  ·  LLM Systems  ·  MLOps         ║
-║  learning      →  DSA · System Design · LLM Fine-tuning (QLoRA) ║
-║  open_to       →  Internships · Full-time · FAANG · AI Startups ║
-║  motto         →  "Build fast. Deploy faster. Make it matter."  ║
-╚══════════════════════════════════════════════════════════════════╝
+```python
+class KanhayyyaGupta:
+    role           = "AI Engineer @ Pixels Creative Technologies"
+    education      = "B.Tech IoT — Thakur COE, Mumbai (2nd Year)"
+    specialization = ["Agentic AI", "LLM Systems", "MLOps"]
+    currently      = "Building production AI that ships — not notebooks"
+    learning       = ["DSA", "System Design", "LLM Fine-tuning (QLoRA)"]
+    open_to        = ["Internships", "Full-time", "FAANG", "AI Startups"]
+    motto          = "Build fast. Deploy faster. Make it matter."
 ```
 
 ---
 
-## Experience
+## ⚡ Experience
 
-**AI Engineer — Pixels Creative Technologies** &nbsp;`Jan 2025 – Present`
-> Mumbai, India
+**`AI Engineer`** — Pixels Creative Technologies &nbsp;|&nbsp; `Jan 2025 – Present` &nbsp;|&nbsp; Mumbai
 
-- Built production RAG chatbot on live website (LangChain + FAISS) → **~40% reduction in manual support overhead**
-- Architected multi-agent e-commerce workflows (CrewAI + LangGraph): auto-checkout agents, product recommendation flows
-- Built AI-driven web scraping + content generation systems eliminating repetitive catalog tasks
+- Production RAG chatbot on live website — LangChain + FAISS → **~40% reduction in support overhead**
+- Multi-agent e-commerce workflows (CrewAI + LangGraph) — auto-checkout agents, autonomous recommendations
+- AI-driven web scraping + content generation pipelines eliminating manual catalog tasks
 
-**AI Engineer — OptiReachTech** &nbsp;`Oct 2024 – Dec 2024`
-> Mumbai, India
+**`AI Engineer`** — OptiReachTech &nbsp;|&nbsp; `Oct 2024 – Dec 2024` &nbsp;|&nbsp; Mumbai
 
-- Engineered algorithmic trading strategies using LangGraph with RSI, MACD, Bollinger Bands signal generation
-- Built multi-agent FastAPI system handling **500+ concurrent requests** · **40% cost reduction** · sub-200ms latency
-- Set up AWS EC2 CI/CD (GitHub Actions) for zero-downtime trading strategy deployment
+- Algorithmic trading strategies via LangGraph — RSI, MACD, Bollinger Bands signal generation
+- FastAPI multi-agent system handling **500+ concurrent requests** — **40% cost reduction**, sub-200ms latency
+- AWS EC2 CI/CD pipeline (GitHub Actions) — zero-downtime trading strategy deployment
 
 ---
 
-## Projects
+## 🚀 Projects
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 🏥 [Hospi-Track](https://github.com/kanhaiya-98/HospiTrack-UN-SDG-3)
-`UN SDG 3 Initiative`
+**[🏥 Hospi-Track](https://github.com/kanhaiya-98/HospiTrack-UN-SDG-3)**
+`UN SDG 3`
 
-Real-time hospital ward intelligence platform solving India's **bed visibility crisis**. 5-node LangGraph BedPulse AI engine forecasts 24h ward capacity using RandomForest + Gemini LLM.
+Real-time hospital ward intelligence platform. 5-node **LangGraph BedPulse engine** forecasts 24h capacity via RandomForest + Gemini LLM. Solves India's hospital bed visibility crisis.
 
-`LangGraph` `FastAPI` `React` `Supabase RT` `RandomForest`
+![](https://img.shields.io/badge/LangGraph-orange?style=flat-square)
+![](https://img.shields.io/badge/FastAPI-009688?style=flat-square)
+![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logoColor=000)
+![](https://img.shields.io/badge/Supabase_RT-3ECF8E?style=flat-square)
 
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 🌌 [Eternia](https://github.com/kanhaiya-98/Eternia-Anonymous-Institutional-Wellbeing-Platform)
+**[🌌 Eternia](https://github.com/kanhaiya-98/Eternia-Anonymous-Institutional-Wellbeing-Platform)**
 `🏆 Won VIT Bhopal · 💰 ₹1.2L Funded`
 
-Anonymous student mental health SaaS. Sub-1s crisis escalation via Supabase Realtime. AES-256-GCM encrypted PII. DPDP Act 2023 compliant.
+Anonymous student mental health SaaS. Sub-1s crisis escalation via Supabase Realtime. AES-256-GCM encrypted PII. DPDP Act 2023 compliant. 5-role RBAC.
 
-`Next.js 15` `Agora RTC` `Supabase` `AES-256-GCM` `RBAC`
+![](https://img.shields.io/badge/Next.js_15-000?style=flat-square)
+![](https://img.shields.io/badge/Agora_RTC-099DFD?style=flat-square)
+![](https://img.shields.io/badge/AES--256--GCM-6C3483?style=flat-square)
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 🚀 [LogiSense AI](https://github.com/kanhaiya-98/LogiSense-logistics-AI-Unified-Platform-)
+**[🚀 LogiSense AI](https://github.com/kanhaiya-98/LogiSense-logistics-AI-Unified-Platform-)**
 `🌐 International Finalist — Cyber Cypher 2025`
 
-10-module agentic logistics OS. Observer → Reasoner → Actor pipeline. LightGBM fraud scoring, XGBoost ETA regression, SHAP explainability, Polygon blockchain audit trail.
+10-module agentic logistics OS. Observer → Reasoner → Actor pipeline. LightGBM fraud scoring, XGBoost ETA p50/p90/p99, SHAP explainability, Polygon blockchain audit trail.
 
-`LangGraph` `LightGBM` `XGBoost` `SHAP` `Polygon Web3`
+![](https://img.shields.io/badge/LangGraph-orange?style=flat-square)
+![](https://img.shields.io/badge/LightGBM-02569B?style=flat-square)
+![](https://img.shields.io/badge/XGBoost-EB4034?style=flat-square)
+![](https://img.shields.io/badge/Polygon_Web3-8247E5?style=flat-square)
 
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 💊 [Smart Pharmacy Hub](https://github.com/kanhaiya-98/Smart-Pharmacy-Management-System)
+**[💊 Smart Pharmacy Hub](https://github.com/kanhaiya-98/Smart-Pharmacy-Management-System)**
 `🥇 National Winner — Zenith '25 AWS Hackathon`
 
-AI-powered OS for India's 10.6L independent pharmacies. Gemini 2.0 conversational assistant, 6-month XGBoost demand forecasting, autonomous supplier negotiation via SerpAPI + Gmail API.
+AI-powered OS for India's 10.6L independent pharmacies. Gemini 2.0 conversational assistant, 6-month demand forecasting, autonomous supplier negotiation via SerpAPI + Gmail API.
 
-`LangChain` `Gemini 2.0` `XGBoost` `FastAPI` `SerpAPI`
+![](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![](https://img.shields.io/badge/Gemini_2.0-4285F4?style=flat-square)
+![](https://img.shields.io/badge/XGBoost-EB4034?style=flat-square)
+![](https://img.shields.io/badge/FastAPI-009688?style=flat-square)
 
 </td>
 </tr>
@@ -106,53 +125,64 @@ AI-powered OS for India's 10.6L independent pharmacies. Gemini 2.0 conversationa
 
 ---
 
-## Recognition
+## 🏆 Recognition
 
-| Place | Event | Details |
-|:---:|---|---|
-| 🥇 **1st** | Zenith '25 AWS Hackathon | National Level · Team Hackstronauts |
-| 🥇 **1st** | AI Hackathon, VIT Bhopal | Best AI Innovation + seed funding |
-| 🥇 **1st** | ADAPPT 4.0 Hackathon | National Level |
-| 🥇 **1st** | AshnaAI Hackathon 2025 | AI Systems Track |
-| 🌐 **Intl. Finalist** | Cyber Cypher 2025 | International Competition |
-| 🏅 **Top 10 / 400+** | PVG HackHub 2025 | National Finals |
-| 🏅 **Internal Winner** | Smart India Hackathon 2025 | SIH Official |
-| 💰 **₹1.2L Funded** | Parul University Incubation | Eternia Platform |
-| 🎓 **3× Mentor** | National Hackathons | Technical mentorship |
-| ⚖️ **1× Judge** | Hackathon Panel | Technical evaluation |
-| 📝 **Managing Editor** | BYTE Magazine | Tech publication |
-| 📝 **Co-Editor** | ThingTech Magazine | IoT publication |
+| # | Event | Result |
+|---|---|---|
+| 🥇 | **Zenith '25 AWS Hackathon** — National Level | 1st Place · Team Hackstronauts |
+| 🥇 | **AI Hackathon, VIT Bhopal** | 1st Place + ₹1.2L Seed Funding |
+| 🥇 | **ADAPPT 4.0 Hackathon** — National Level | 1st Place |
+| 🥇 | **AshnaAI Hackathon 2025** | 1st Place |
+| 🌐 | **Cyber Cypher 2025** | International Finalist |
+| 🏅 | **PVG HackHub 2025** | National Finalist · Top 10 / 400+ teams |
+| 🏅 | **Smart India Hackathon 2025** | Internal Round Winner |
+| 💰 | **Parul University Incubation Centre** | ₹1.2L Seed Funded — Eternia |
+| 🎓 | **National Hackathons** | 3× Mentor · 1× Judge |
+| 📝 | **BYTE Magazine** | Managing Editor |
+| 📝 | **ThingTech Magazine** | Co-Editor |
 
 ---
 
-## Skills
+## 🛠 Skills
 
 ```
-Agentic AI & LLMs  →  LangChain · LangGraph · CrewAI · RAG · Multi-Agent Orchestration
-                       Hugging Face · LoRA/QLoRA · OpenAI API · Gemini API
+AGENTIC AI & LLMs   ──  LangChain · LangGraph · CrewAI · RAG · Multi-Agent Orchestration
+                        Hugging Face · LoRA / QLoRA · OpenAI API · Gemini API
 
-ML / DL            →  PyTorch · TensorFlow · scikit-learn · XGBoost · LightGBM
-                       SHAP · RandomForest · Isolation Forest
+ML / DEEP LEARNING  ──  PyTorch · TensorFlow · scikit-learn · XGBoost · LightGBM
+                        SHAP · RandomForest · Isolation Forest
 
-Infra & DevOps     →  FastAPI · Docker · Kubernetes · AWS (ECS/Lambda/EC2/S3)
-                       GitHub Actions CI/CD · Redis · NGINX · WebSockets
+INFRA & DEVOPS      ──  FastAPI · Docker · Kubernetes · AWS (ECS / Lambda / EC2 / S3)
+                        GitHub Actions CI/CD · Redis · NGINX · WebSockets · Microservices
 
-Frontend & Data    →  Next.js 15 · React 18 · TypeScript · Tailwind CSS
-                       PostgreSQL · Supabase · FAISS · ChromaDB
+FRONTEND & DATA     ──  Next.js 15 · React 18 · TypeScript · Tailwind CSS
+                        PostgreSQL · Supabase · FAISS · ChromaDB
 ```
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kanhaiya-98&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117)
+&nbsp;&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kanhaiya-98&layout=compact&theme=github_dark&hide_border=true&langs_count=6&bg_color=0d1117)
+
+![Streak](https://streak-stats.demolab.com?user=kanhaiya-98&theme=github-dark-blue&hide_border=true&background=0d1117)
+
+</div>
 
 ---
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kanhaiya-98&show_icons=true&theme=graywhite&hide_border=true&count_private=true&include_all_commits=true)
-&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kanhaiya-98&layout=compact&theme=graywhite&hide_border=true&langs_count=5)
+`Open to FAANG · MAANG · High-growth AI startups · Research teams`
 
----
+**[LinkedIn](https://www.linkedin.com/in/kanhayya-gupta/) &nbsp;·&nbsp; [Email](mailto:kanhacet@gmail.com) &nbsp;·&nbsp; Mumbai, India**
 
-*Open to FAANG · MAANG · High-growth AI startups*
+<br/>
 
-**[LinkedIn](https://www.linkedin.com/in/kanhayya-gupta/) · [Email](mailto:kanhacet@gmail.com) · Mumbai, India**
+![](https://komarev.com/ghpvc/?username=kanhaiya-98&style=flat-square&color=grey&label=profile+views)
 
 </div>
