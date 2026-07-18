@@ -8,7 +8,7 @@
 
 <br/>
 
-| &nbsp;&nbsp;&nbsp;&nbsp;**4×**&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;**19×**&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;**₹1.2L**&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;**3×**&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;**3K**&nbsp;&nbsp;&nbsp;&nbsp; |
+| &nbsp;&nbsp;&nbsp;&nbsp;**4×**&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;**19×**&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;**₹1.2L**&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;**6×**&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;**3K**&nbsp;&nbsp;&nbsp;&nbsp; |
 |:---:|:---:|:---:|:---:|:---:|
 | Hackathons Won | National Finalist | Seed Funded | Hackathon Mentor | LinkedIn |
 
